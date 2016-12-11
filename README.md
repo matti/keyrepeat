@@ -1,6 +1,6 @@
 # keyrepeat
 
-Set macOS key repeat programmatically from command-line.
+Set macOS key repeat and initial delay programmatically from command-line.
 
 Compiled included binary in `bin/keyrepeat`
 
